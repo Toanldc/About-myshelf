@@ -16,6 +16,9 @@
   <a href="https://github.com/Toanldc" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
+  <a href="https://www.linkedin.com/in/to%C3%A0n-l%C3%AA-%C4%91%C3%ACnh-66a9b4245/" alt="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+  </a>
   <a href="mailto:ledinhtoan.8124@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
