@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Toanldc" alt="Toanldc" /> <img src="https://badges.pufler.dev/repos/DinhToan" alt="Toanldc" /> </p>
 
-- ✍ I graduated from Ho Chi Minh city University of Technology and Education (https://hcmute.edu.vn) (HCMUTE).
+- ✍ I graduated with engineering degree from Ho Chi Minh city University of Technology and Education (https://hcmute.edu.vn) (HCMUTE).
   
 - 🚗 Working in automotive field
   
